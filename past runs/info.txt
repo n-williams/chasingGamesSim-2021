@@ -1,0 +1,6 @@
+window size = 
+player size = 
+speed = 
+chaser count = 
+runner count =
+total players = 

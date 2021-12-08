@@ -1,0 +1,6 @@
+window size = 100
+player size = 2
+speed = 10
+chaser count = 1 
+runner count = 19
+total players = 20
